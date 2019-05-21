@@ -1,0 +1,12 @@
+{
+"posts":[
+  {
+    "name": "Low Jia Xin",
+    "time": "2pm",
+    "late": true,
+    "gender": "F",
+    "IsClass": true,
+    "location": "S434"
+  }
+  ]
+}
